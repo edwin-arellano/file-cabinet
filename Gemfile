@@ -13,7 +13,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise', '~> 4.6', '>= 4.6.2'
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 
 group :development, :test do
